@@ -91,24 +91,6 @@ Visualização clara da variação de temperatura ao longo do ano.
 
 Familiaridade com matplotlib e manipulação de datas no eixo X.
 
-📂 Estrutura sugerida do repositório
-📁 projeto-meteorologia
-│
-├── atividade_1/
-│   ├── matriz_python.py
-│   ├── matriz_numpy.py
-│   └── resultados.md
-│
-├── atividade_2/
-│   ├── analise_pandas.py
-│   └── sitka_weather_2014.csv  (opcional)
-│
-├── atividade_3/
-│   ├── grafico_temperaturas.py
-│   └── grafico.png
-│
-└── README.md
-
 🚀 Como executar
 Atividade 1
 python atividade_1/matriz_python.py
@@ -127,5 +109,6 @@ Python 3
 NumPy
 
 Pandas
+
 
 Matplotlib
